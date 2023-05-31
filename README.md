@@ -18,7 +18,7 @@ The ultimate service for managing multi-channel notifications with a single API.
 <p>If there is</p>
 
 <h3>Screenshoot</h3>
-<img width="1128" alt="image" src="https://imageup.me/images/613fa0ef-41a0-44db-8fa0-73c5e006751d.jpeg">
+<img width="1128" alt="image" src="https://imageup.me/images/6b2e740a-ee8b-4b72-a17b-e01dad9366e9.png">
 
 <h3>Description</h3>
 <p>Explain what you have build in the most detailed way</p>
