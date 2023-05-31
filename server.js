@@ -24,7 +24,7 @@ app.use((req, res, next) => {
 
 })
 
-const port = process.env.PORT || 8900
+const port = process.env.PORT || 8080
 
 app.listen(port, () => console.log(`Notification Dashboard app listening at http://localhost:${port}`))
 
